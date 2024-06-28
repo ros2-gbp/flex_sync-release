@@ -1,3 +1,26 @@
+## flex_sync (rolling) - 2.0.0-1
+
+The packages in the `flex_sync` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --edit-track --track rolling --rosdistro rolling flex_sync` on `Fri, 28 Jun 2024 21:37:35 -0000`
+
+The `flex_sync` package was released.
+
+Version of package(s) in repository `flex_sync`:
+
+- upstream repository: https://github.com/ros-misc-utilities/flex_sync.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.0-1`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## flex_sync (jazzy) - 2.0.0-1
 
 The packages in the `flex_sync` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --edit-track --track jazzy --rosdistro jazzy flex_sync` on `Fri, 28 Jun 2024 21:29:24 -0000`
