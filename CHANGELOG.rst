@@ -2,7 +2,7 @@
 Changelog for package flex_sync
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.3.0 (2024-06-26)
+2.0.0 (2024-06-28)
 ------------------
-* initial release as a ROS2 package
+* initial release as ROS2 package
 * Contributors: Bernd Pfrommer
