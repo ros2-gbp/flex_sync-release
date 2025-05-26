@@ -71,7 +71,7 @@ tracks:
     name: flex_sync
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: git@github.com:ros2-gbp/flex_sync-release.git
     release_tag: :{version}
     ros_distro: jazzy
     vcs_type: git
